@@ -1,0 +1,19 @@
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\BarKeeper\BarKeeper\bin\Debug\BarKeeper.exe.config
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\BarKeeper\BarKeeper\bin\Debug\BarKeeper.exe
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\BarKeeper\BarKeeper\bin\Debug\BarKeeper.pdb
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\BarKeeper\BarKeeper\obj\Debug\BarKeeper.csprojResolveAssemblyReference.cache
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\BarKeeper\BarKeeper\obj\Debug\BarKeeper.exe
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\BarKeeper\BarKeeper\obj\Debug\BarKeeper.pdb
+C:\Projects\BarKeeper\BarKeeper\bin\Debug\BarKeeper.exe.config
+C:\Projects\BarKeeper\BarKeeper\bin\Debug\BarKeeper.exe
+C:\Projects\BarKeeper\BarKeeper\bin\Debug\BarKeeper.pdb
+C:\Projects\BarKeeper\BarKeeper\obj\Debug\BarKeeper.csprojResolveAssemblyReference.cache
+C:\Projects\BarKeeper\BarKeeper\obj\Debug\BarKeeper.exe
+C:\Projects\BarKeeper\BarKeeper\obj\Debug\BarKeeper.pdb
+C:\Projects\Aufgaben\BarKeeper\BarKeeper\bin\Debug\BarKeeper.exe.config
+C:\Projects\Aufgaben\BarKeeper\BarKeeper\bin\Debug\BarKeeper.exe
+C:\Projects\Aufgaben\BarKeeper\BarKeeper\bin\Debug\BarKeeper.pdb
+C:\Projects\Aufgaben\BarKeeper\BarKeeper\obj\Debug\BarKeeper.csprojAssemblyReference.cache
+C:\Projects\Aufgaben\BarKeeper\BarKeeper\obj\Debug\BarKeeper.csproj.CoreCompileInputs.cache
+C:\Projects\Aufgaben\BarKeeper\BarKeeper\obj\Debug\BarKeeper.exe
+C:\Projects\Aufgaben\BarKeeper\BarKeeper\obj\Debug\BarKeeper.pdb

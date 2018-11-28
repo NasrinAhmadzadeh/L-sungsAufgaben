@@ -1,0 +1,13 @@
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\sub\sub\bin\Debug\sub.exe.config
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\sub\sub\bin\Debug\sub.exe
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\sub\sub\bin\Debug\sub.pdb
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\sub\sub\obj\Debug\sub.csprojResolveAssemblyReference.cache
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\sub\sub\obj\Debug\sub.exe
+c:\users\ahmadzadeh\documents\visual studio 2017\Projects\sub\sub\obj\Debug\sub.pdb
+C:\Projects\Aufgaben\sub\sub\bin\Debug\sub.exe.config
+C:\Projects\Aufgaben\sub\sub\bin\Debug\sub.exe
+C:\Projects\Aufgaben\sub\sub\bin\Debug\sub.pdb
+C:\Projects\Aufgaben\sub\sub\obj\Debug\sub.csprojAssemblyReference.cache
+C:\Projects\Aufgaben\sub\sub\obj\Debug\sub.csproj.CoreCompileInputs.cache
+C:\Projects\Aufgaben\sub\sub\obj\Debug\sub.exe
+C:\Projects\Aufgaben\sub\sub\obj\Debug\sub.pdb

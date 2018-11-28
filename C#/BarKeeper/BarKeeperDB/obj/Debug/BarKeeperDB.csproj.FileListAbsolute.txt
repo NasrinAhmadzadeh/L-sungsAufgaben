@@ -1,0 +1,14 @@
+C:\Projects\BarKeeper\BarKeeperDB\bin\Debug\BarKeeperDB.exe.config
+C:\Projects\BarKeeper\BarKeeperDB\bin\Debug\BarKeeperDB.exe
+C:\Projects\BarKeeper\BarKeeperDB\bin\Debug\BarKeeperDB.pdb
+C:\Projects\BarKeeper\BarKeeperDB\obj\Debug\BarKeeperDB.exe
+C:\Projects\BarKeeper\BarKeeperDB\obj\Debug\BarKeeperDB.pdb
+C:\Projects\BarKeeper\BarKeeperDB\obj\Debug\BarKeeperDB.csprojAssemblyReference.cache
+C:\Projects\BarKeeper\BarKeeperDB\obj\Debug\BarKeeperDB.csproj.CoreCompileInputs.cache
+C:\Projects\Aufgaben\BarKeeper\BarKeeperDB\bin\Debug\BarKeeperDB.exe.config
+C:\Projects\Aufgaben\BarKeeper\BarKeeperDB\bin\Debug\BarKeeperDB.exe
+C:\Projects\Aufgaben\BarKeeper\BarKeeperDB\bin\Debug\BarKeeperDB.pdb
+C:\Projects\Aufgaben\BarKeeper\BarKeeperDB\obj\Debug\BarKeeperDB.csprojAssemblyReference.cache
+C:\Projects\Aufgaben\BarKeeper\BarKeeperDB\obj\Debug\BarKeeperDB.csproj.CoreCompileInputs.cache
+C:\Projects\Aufgaben\BarKeeper\BarKeeperDB\obj\Debug\BarKeeperDB.exe
+C:\Projects\Aufgaben\BarKeeper\BarKeeperDB\obj\Debug\BarKeeperDB.pdb
