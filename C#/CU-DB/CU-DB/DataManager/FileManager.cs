@@ -14,6 +14,7 @@ namespace CU_DB.DataManager
 
         string conStr = @"Data Source=.\SQLEXPRESS;Initial Catalog=CU;Integrated Security = true";
 
+        //Read files...........
         public void InsertFromFolder(string directoryPath)
 
         {
