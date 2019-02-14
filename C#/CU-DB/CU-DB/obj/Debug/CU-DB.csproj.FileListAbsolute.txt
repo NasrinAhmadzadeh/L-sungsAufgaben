@@ -1,0 +1,7 @@
+C:\Projects\CU-DB\CU-DB\obj\Debug\CU-DB.csprojAssemblyReference.cache
+C:\Projects\CU-DB\CU-DB\obj\Debug\CU-DB.csproj.CoreCompileInputs.cache
+C:\Projects\CU-DB\CU-DB\bin\Debug\CU-DB.exe.config
+C:\Projects\CU-DB\CU-DB\bin\Debug\CU-DB.exe
+C:\Projects\CU-DB\CU-DB\bin\Debug\CU-DB.pdb
+C:\Projects\CU-DB\CU-DB\obj\Debug\CU-DB.exe
+C:\Projects\CU-DB\CU-DB\obj\Debug\CU-DB.pdb
