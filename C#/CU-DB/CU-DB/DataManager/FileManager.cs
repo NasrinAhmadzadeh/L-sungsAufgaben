@@ -22,15 +22,14 @@ namespace CU_DB.DataManager
             foreach (string file in Directory.EnumerateFiles(directoryPath, "*.csv"))
             {
                 var fileName = Path.GetFileName(file);
+
                 //Überprüfen, ob die Datei bereits eingetragen ist 
-                int countFile = fileNameDataManager.CheckFileName(fileName);
-                //string contents = File.ReadAllText(file);
+                int countFile = fileNameDataManager.CheckFileName(fileName);              
                 if (countFile < 1)
                 {
                     DiagnosseDataManager diagnossDataManager = new DiagnosseDataManager();
                     diagnossDataManager.InsertDataToDb(file);
-                    //var dt = GetDataTableFromCsv(file);
-                    //InsertDataIntoSql(dt);
+                    
 
                     fileNameDataManager.InsertFileName(fileName);
                     Console.WriteLine("the File" + fileName + "is imported in DB ");
@@ -54,16 +53,12 @@ namespace CU_DB.DataManager
 
             string line = sr.ReadLine();
             line = sr.ReadLine();
-
-            // string[] value = line.Split(',');
-
-
+      
             List<Diagnosse> listDiagnoss = new List<Diagnosse>();
 
             while (!sr.EndOfStream)
             {
-                //string delimiter = "][";
-                //var columns = stringtosplit.split(new[] { delimiter }, stringsplitoptions.none);
+                
                 string[] seperator = { "\",\"" };
                 var columns = sr.ReadLine().Split(seperator, StringSplitOptions.None);
                 //object
@@ -178,7 +173,7 @@ namespace CU_DB.DataManager
                 diagnoss.XDDisconnectReason = columns[77];
                 diagnoss.XDDisconnectDate = columns[78];
                 diagnoss.XDDeliveryGroup = columns[79].Replace("\"", string.Empty);
-                //har zeil ro be onvane object negah midare
+                
 
 
                 listDiagnoss.Add(diagnoss);

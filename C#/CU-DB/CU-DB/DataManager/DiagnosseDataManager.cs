@@ -12,13 +12,7 @@ namespace CU_DB.DataManager
 {
     public class DiagnosseDataManager
     {
-        //private string CleanString(string str)
-        //{
-
-        //    str = str.Replace(",", ".");
-
-        //    return str;
-        //}
+        
 
         string conStr = @"Data Source=.\SQLEXPRESS;Initial Catalog=CU;Integrated Security = true";
 
